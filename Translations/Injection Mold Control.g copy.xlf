@@ -1,0 +1,1185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-MX" original="Injection Mold Control">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1380493935 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Injection Mold</source>
+          <target>Molde de Inyección</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 1293636171 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Design By</source>
+          <target>Diseñado por</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Design By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 3136915087 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fixed Asset Cost</source>
+          <target>Costo Activo Fijo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Fixed Asset Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 1182491315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fixed Asset No.</source>
+          <target>No. Activo Fijo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Fixed Asset No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 2035544938 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty to Produce in Assembly Order</source>
+          <target>Cant. a producir en Órd. Ensamble</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field InAssyOrd - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 4178326421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty to Produce in Firm Planned Order</source>
+          <target>Cant. a producir en Órd. Prod. Planeada en Firme</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field inFirmPlanned - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 3131069204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Injection Mold. Process Description</source>
+          <target>Descrpción procesos soportados por el Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Inj. Mold. Proc. Desc. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 583612316 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Injection Mold. Process</source>
+          <target>Proceso soportado por el Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Injection Mold. Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 2829388853 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty to Produce in Planned Order</source>
+          <target>Cant. a producir en Órd. Prod. Planeada</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field InPlanned - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 2947463654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty to Produce in Released Order</source>
+          <target>Cant. a producir en Órd. Prod. Lanzada</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field InReleased - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 1452851805 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is Fixed Asset?</source>
+          <target>¿Es activo fijo?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Is Fixed Asset? - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 1910326603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manufacture Date</source>
+          <target>Fecha de fabricación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Manufacture Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 2519935335 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Max. Usage Qty.</source>
+          <target>Cant. Máxima de Usos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Max. Usage Qty. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 3198480054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Max. Usage Qty.</source>
+          <target>Cant. Máxima de Usos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Max. Usage Qty. per Month - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 2681947003 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mold Material</source>
+          <target>Material del Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Mold Material - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 1977037094 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mold Type</source>
+          <target>Tipo de molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Mold Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 1898340821 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Molds Assigned to Machine Centers</source>
+          <target>Moldes asignados a Centros Maquina</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field MoldsAssigtoMC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 2200371994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Molds Not Assigned to Machine Centers</source>
+          <target>Molde son asignados a Centros Maquina</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field MoldsNotAssigtoMC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target>Nos. Series</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 870565195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operation Start Date</source>
+          <target>Fecha Inicio de operación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Operation Start Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 1594621544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture</source>
+          <target>Imagen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Picture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 3218162199 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture 1</source>
+          <target>Imagen 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Picture1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 836284754 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture 2</source>
+          <target>Imagen 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Picture2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 2188779479 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Assembly Orders Quantities</source>
+          <target>Cant. Registradas Peds. Ensamble</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field PostAssyOrdQty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 4236113112 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Production Orders Quantities</source>
+          <target>Cant. Registradas Órd. Producción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field PostProdOrdQty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 3920280169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Date</source>
+          <target>Fecha de Compra</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Purchase Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 3284082555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Related Machine Center</source>
+          <target>Centro Maquina Relacionado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Related Machine Center - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 1315155167 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Related Resource</source>
+          <target>Recurso Relacionado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Related Resource - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 2997432562 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remaining Life Qty.</source>
+          <target>Cant. de vida remanente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field RemainingLifeQty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 1936001480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor</source>
+          <target>Proveedor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1380493935 - Field 3119688693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Name</source>
+          <target>Nombre proveedor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold - Field Vendor Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080333679 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Injection Mold Control Setup</source>
+          <target>Conf. Control de Moldes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold Control Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080333679 - Field 2446197802 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mold Nos.</source>
+          <target>Nos. del Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold Control Setup - Field Mold Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080333679 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target>Llave Primaria</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold Control Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3304183106 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Injection Mold. Processes</source>
+          <target>Procesos soportados por el Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold. Processes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3304183106 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target>Código</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold. Processes - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3304183106 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Injection Mold. Processes - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2681947003 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mold Material</source>
+          <target>Material del Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mold Material - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2681947003 - Field 2172860841 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alloy</source>
+          <target>Aleación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mold Material - Field Alloy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2681947003 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target>Código</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mold Material - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2681947003 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mold Material - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2681947003 - Field 2568213288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hardness</source>
+          <target>Dureza</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mold Material - Field Hardness - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2681947003 - Field 3844810282 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mold Manufactured Method</source>
+          <target>Metodo Manufactura del Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mold Material - Field Manufactured Method - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2681947003 - Field 507232180 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tonnage</source>
+          <target>Tonelaje</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mold Material - Field Tonnage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2681947003 - Field 2265098193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tonnage Unit of Measure</source>
+          <target>Unidad de Medida de Presión</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mold Material - Field Tonnage Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2208062671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mold Use Entry</source>
+          <target>Movimientos Uso de Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mold Use Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2208062671 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mold Use Entry - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2208062671 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>No. Documento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mold Use Entry - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2208062671 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>No. Mov.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mold Use Entry - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2208062671 - Field 149522872 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Type</source>
+          <target>Tipo Mov.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mold Use Entry - Field Entry Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2208062671 - Field 1303377601 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Dimension 1 Code</source>
+          <target>Cód. Dimension Global 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mold Use Entry - Field Global Dimension 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2208062671 - Field 1337243520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Dimension 2 Code</source>
+          <target>Cód. Dimension Global 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mold Use Entry - Field Global Dimension 2 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2208062671 - Field 2626717425 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Modified Date</source>
+          <target>Fecha de última modificación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mold Use Entry - Field Last Modified Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2208062671 - Field 625155527 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mold No.</source>
+          <target>No. del Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mold Use Entry - Field Mold No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2208062671 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Cantidad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mold Use Entry - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Injection Mold Card</source>
+          <target>Ficha Molde Inyección</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 1910326603 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Manufacture Date field.</source>
+          <target>Especifica el valor del campo Fecha de fabricación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control Manufacture Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 870565195 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Operation Start Date field.</source>
+          <target>Especifica el valor del campo Fecha Inicio de operación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control Operation Start Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 3920280169 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Purchase Date field.</source>
+          <target>Especifica el valor del campo Fecha de Compra</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control Purchase Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <target>Especifica el valor del campo Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <target>Especifica el valor del campo No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 3136915087 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Fixed Asset Cost field.</source>
+          <target>Especifica el valor del campo Costo Activo Fijo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control Fixed Asset Cost - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 1182491315 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Fixed Asset No. field.</source>
+          <target>Especifica el valor del campo No. Activo Fijo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control Fixed Asset No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 1452851805 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Is Fixed Asset? field.</source>
+          <target>Especifica el valor del campo ¿Es activo fijo?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control Is Fixed Asset? - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 2035544938 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of Assembly Orders field.</source>
+          <target>Especifica el valor del campo Pedidos de Ensamble</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control InAssyOrd - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 4178326421 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the In field.</source>
+          <target>Especifica el valor del campo en</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control inFirmPlanned - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 2344334421 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the In field.</source>
+          <target>Especifica el valor del campo en</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control InPLanned - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 2947463654 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the In field.</source>
+          <target>Especifica el valor del campo en</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control InReleased - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 3284082555 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Related Machine Center field.</source>
+          <target>Especifica el valor del campo Centro Maquina Relacionado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control Related Machine Center - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 1315155167 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Related Resource field.</source>
+          <target>Especifica el valor del campo Recurso Relacionado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control Related Resource - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 747321186 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifications</source>
+          <target>Especificaciones</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control Specs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 1293636171 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Design By field.</source>
+          <target>Especifica el valor del campo Diseñado por</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control Design By - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 3131069204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Injection Mold. Process Description field.</source>
+          <target>Especifica el valor del campo Descrpción procesos soportados por el Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control Inj. Mold. Proc. Desc. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 583612316 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Injection Mold. Process field.</source>
+          <target>Especifica el valor del campo Proceso soportado por el Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control Injection Mold. Process - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 2681947003 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Mold MAterial field.</source>
+          <target>Especifica el valor del campo Material del Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control Mold Material - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 1977037094 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Mold Type field.</source>
+          <target>Especifica el valor del campo Tipo de molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control Mold Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 1936001480 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Vendor field.</source>
+          <target>Especifica el valor del campo Proveedor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control Vendor - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 3119688693 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Vendor Name field.</source>
+          <target>Especifica el valor del campo Nombre proveedor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control Vendor Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 2410178428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Used Quantities By Process</source>
+          <target>Cantidades usadas por proceso</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control Mold Used Quantities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 2165811472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture</source>
+          <target>Imagen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control MoldPict - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 1267572255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture 1</source>
+          <target>Imagen 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control MoldPict1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Control 3180662106 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture 2</source>
+          <target>Imagen 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Control MoldPict2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3147114187 - Action 2342140490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mold Use Entry Ledger</source>
+          <target>Movimientos Uso de Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Card - Action MoldEntry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1876473977 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Injection Mold List</source>
+          <target>Lista Moldes de Inyección</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1876473977 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <target>Especifica el valor del campo Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold List - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1876473977 - Control 3131069204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Injection Mold. Process Description field.</source>
+          <target>Especifica el valor del campo Descrpción procesos soportados por el Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold List - Control Inj. Mold. Proc. Desc. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1876473977 - Control 583612316 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Injection Mold. Process field.</source>
+          <target>Especifica el valor del campo Proceso soportado por el Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold List - Control Injection Mold. Process - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1876473977 - Control 1452851805 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Is Fixed Asset? field.</source>
+          <target>Especifica el valor del campo ¿Es activo fijo?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold List - Control Is Fixed Asset? - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1876473977 - Control 1910326603 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Manufacture Date field.</source>
+          <target>Especifica el valor del campo Fecha de fabricación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold List - Control Manufacture Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1876473977 - Control 1977037094 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Mold Type field.</source>
+          <target>Especifica el valor del campo Tipo de molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold List - Control Mold Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1876473977 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <target>Especifica el valor del campo No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold List - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1876473977 - Control 870565195 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Operation Start Date field.</source>
+          <target>Especifica el valor del campo Fecha Inicio de operación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold List - Control Operation Start Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 670733532 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Injection Mold Processes</source>
+          <target>Procesos soportados por el Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Processes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 670733532 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Code field.</source>
+          <target>Especifica el valor del campo Código</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Processes - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 670733532 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <target>Especifica el valor del campo Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Processes - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1382670618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Injection Mold Setup card</source>
+          <target>Conf. Control de Moldes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Setup card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1382670618 - Control 2446197802 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Mold Nos. field.</source>
+          <target>Especifica el valor del campo Nos. del Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Injection Mold Setup card - Control Mold Nos. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2681947003 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mold Material</source>
+          <target>Material del Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Material - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2681947003 - Control 2172860841 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Alloy field.</source>
+          <target>Especifica el valor del campo Aleación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Material - Control Alloy - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2681947003 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Code field.</source>
+          <target>Especifica el valor del campo Código</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Material - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2681947003 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <target>Especifica el valor del campo Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Material - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2681947003 - Control 2568213288 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Hardness field.</source>
+          <target>Especifica el valor del campo Dureza</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Material - Control Hardness - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2681947003 - Control 3844810282 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Mold Manufactured Method field.</source>
+          <target>Especifica el valor del campo Metodo Manufactura del Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Material - Control Manufactured Method - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2681947003 - Control 507232180 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tonnage field.</source>
+          <target>Especifica el valor del campo Tonelaje</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Material - Control Tonnage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2681947003 - Control 2265098193 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tonnage Unit of Measure field.</source>
+          <target>Especifica el valor del campo Unidad de Medida de Presión</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Material - Control Tonnage Unit of Measure - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2826240898 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mold Picture</source>
+          <target>Imagen del molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2826240898 - NamedType 2865259996" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete the picture?</source>
+          <target>¿Está seguro que desea eliminar la imagen?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture - NamedType DeleteImageQst</note>
+        </trans-unit>
+        <trans-unit id="Page 2826240898 - NamedType 992573177" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must add a description to the item before you can import a picture.</source>
+          <target>Usted debe agregar una descripción antes de importar la imagen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture - NamedType MustSpecifyDescriptionErr</note>
+        </trans-unit>
+        <trans-unit id="Page 2826240898 - NamedType 1398852855" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The existing picture will be replaced. Do you want to continue?</source>
+          <target>La imagen existente sera reemplazada, ¿esta de acuerdo?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture - NamedType OverrideImageQst</note>
+        </trans-unit>
+        <trans-unit id="Page 2826240898 - NamedType 464428880" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select a picture to upload</source>
+          <target>Seleccione la imagen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture - NamedType SelectPictureTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 2826240898 - Method 3372685661 - NamedType 1398852855" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The existing picture will be replaced. Do you want to continue?</source>
+          <target>La imagen existente sera reemplazada, ¿esta de acuerdo?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture - Method ImportPict - NamedType OverrideImageQst</note>
+        </trans-unit>
+        <trans-unit id="Page 2826240898 - Control 1594621544 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Picture field.</source>
+          <target>Especifica el valor del campo Imagen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture - Control Picture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2826240898 - Action 3119204463 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete the record.</source>
+          <target>Eliminar el registro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture - Action DeletePicture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2826240898 - Action 3119204463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target>Eliminar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture - Action DeletePicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2826240898 - Action 2665042526 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export the picture to a file.</source>
+          <target>Exportar la imagen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture - Action ExportFile - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2826240898 - Action 2665042526 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export</source>
+          <target>Exportar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture - Action ExportFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2826240898 - Action 2864777531 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import a picture file.</source>
+          <target>Importar una imagen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture - Action ImportPicture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2826240898 - Action 2864777531 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import</source>
+          <target>Importar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture - Action ImportPicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2826240898 - Action 3051446377 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Activate the camera on the device.</source>
+          <target>Activar la Camara en el dispositivo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture - Action TakePicture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2826240898 - Action 3051446377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Take</source>
+          <target>Tomar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture - Action TakePicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1327847425 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mold Picture</source>
+          <target>Imagen del molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1327847425 - NamedType 2865259996" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete the picture?</source>
+          <target>¿Está seguro que desea eliminar la imagen?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture1 - NamedType DeleteImageQst</note>
+        </trans-unit>
+        <trans-unit id="Page 1327847425 - NamedType 992573177" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must add a description to the item before you can import a picture.</source>
+          <target>Usted debe agregar una descripción antes de importar la imagen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture1 - NamedType MustSpecifyDescriptionErr</note>
+        </trans-unit>
+        <trans-unit id="Page 1327847425 - NamedType 1398852855" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The existing picture will be replaced. Do you want to continue?</source>
+          <target>La imagen existente sera reemplazada, ¿esta de acuerdo?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture1 - NamedType OverrideImageQst</note>
+        </trans-unit>
+        <trans-unit id="Page 1327847425 - NamedType 464428880" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select a picture to upload</source>
+          <target>Seleccione la imagen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture1 - NamedType SelectPictureTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 1327847425 - Method 3372685661 - NamedType 1398852855" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The existing picture will be replaced. Do you want to continue?</source>
+          <target>La imagen existente sera reemplazada, ¿esta de acuerdo?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture1 - Method ImportPict - NamedType OverrideImageQst</note>
+        </trans-unit>
+        <trans-unit id="Page 1327847425 - Control 1594621544 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Picture field.</source>
+          <target>Especifica el valor del campo Imagen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture1 - Control Picture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1327847425 - Action 3119204463 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete the record.</source>
+          <target>Eliminar el registro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture1 - Action DeletePicture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1327847425 - Action 3119204463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target>Eliminar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture1 - Action DeletePicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1327847425 - Action 2665042526 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export the picture to a file.</source>
+          <target>Exportar la imagen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture1 - Action ExportFile - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1327847425 - Action 2665042526 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export</source>
+          <target>Exportar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture1 - Action ExportFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1327847425 - Action 2864777531 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import a picture file.</source>
+          <target>Importar una imagen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture1 - Action ImportPicture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1327847425 - Action 2864777531 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import</source>
+          <target>Importar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture1 - Action ImportPicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1327847425 - Action 3051446377 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Activate the camera on the device.</source>
+          <target>Activar la Camara en el dispositivo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture1 - Action TakePicture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1327847425 - Action 3051446377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Take</source>
+          <target>Tomar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture1 - Action TakePicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 690150808 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mold Picture</source>
+          <target>Imagen del molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 690150808 - NamedType 2865259996" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete the picture?</source>
+          <target>¿Está seguro que desea eliminar la imagen?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture2 - NamedType DeleteImageQst</note>
+        </trans-unit>
+        <trans-unit id="Page 690150808 - NamedType 992573177" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must add a description to the item before you can import a picture.</source>
+          <target>Usted debe agregar una descripción antes de importar la imagen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture2 - NamedType MustSpecifyDescriptionErr</note>
+        </trans-unit>
+        <trans-unit id="Page 690150808 - NamedType 1398852855" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The existing picture will be replaced. Do you want to continue?</source>
+          <target>La imagen existente sera reemplazada, ¿esta de acuerdo?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture2 - NamedType OverrideImageQst</note>
+        </trans-unit>
+        <trans-unit id="Page 690150808 - NamedType 464428880" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select a picture to upload</source>
+          <target>Seleccione la imagen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture2 - NamedType SelectPictureTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 690150808 - Method 3372685661 - NamedType 1398852855" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The existing picture will be replaced. Do you want to continue?</source>
+          <target>La imagen existente sera reemplazada, ¿esta de acuerdo?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture2 - Method ImportPict - NamedType OverrideImageQst</note>
+        </trans-unit>
+        <trans-unit id="Page 690150808 - Control 1594621544 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Picture 2 field.</source>
+          <target>Especifica el valor del campo Imagen 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture2 - Control Picture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 690150808 - Action 3119204463 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete the record.</source>
+          <target>Eliminar el registro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture2 - Action DeletePicture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 690150808 - Action 3119204463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target>Eliminar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture2 - Action DeletePicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 690150808 - Action 2665042526 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export the picture to a file.</source>
+          <target>Exportar la imagen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture2 - Action ExportFile - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 690150808 - Action 2665042526 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export</source>
+          <target>Exportar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture2 - Action ExportFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 690150808 - Action 2864777531 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import a picture file.</source>
+          <target>Importar una imagen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture2 - Action ImportPicture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 690150808 - Action 2864777531 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import</source>
+          <target>Importar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture2 - Action ImportPicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 690150808 - Action 3051446377 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Activate the camera on the device.</source>
+          <target>Activar la Camara en el dispositivo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture2 - Action TakePicture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 690150808 - Action 3051446377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Take</source>
+          <target>Tomar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Picture2 - Action TakePicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2208062671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mold Use Entry</source>
+          <target>Movimientos Uso de Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Use Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2208062671 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <target>Especifica el valor del campo Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Use Entry - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2208062671 - Control 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Document No. field.</source>
+          <target>Especifica el valor del campo No. Documento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Use Entry - Control Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2208062671 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Entry No. field.</source>
+          <target>Especifica el valor del campo No. Mov.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Use Entry - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2208062671 - Control 149522872 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Entry Type field.</source>
+          <target>Especifica el valor del campo Tipo Mov.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Use Entry - Control Entry Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2208062671 - Control 1303377601 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Global Dimension 1 Code field.</source>
+          <target>Especifica el valor del campo Cód. Dimension Global 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Use Entry - Control Global Dimension 1 Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2208062671 - Control 1337243520 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Global Dimension 2 Code field.</source>
+          <target>Especifica el valor del campo Cód. Dimension Global 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Use Entry - Control Global Dimension 2 Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2208062671 - Control 2626717425 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Last Modified Date field.</source>
+          <target>Especifica el valor del campo Fecha de última modificación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Use Entry - Control Last Modified Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2208062671 - Control 625155527 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Mold No. field.</source>
+          <target>Especifica el valor del campo No. del Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Use Entry - Control Mold No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2208062671 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Quantity field.</source>
+          <target>Especifica el valor del campo Cantidad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Use Entry - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2410178428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mold Used Quantities</source>
+          <target>Cantidad de usos del molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Used Quantities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2410178428 - Control 2188779479 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Posted Assembly Orders Quantities field.</source>
+          <target>Especifica el valor del campo Cant. Registradas Peds. Ensamble</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Used Quantities - Control PostAssyOrdQty - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2410178428 - Control 4236113112 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Posted Production Orders Quantities field.</source>
+          <target>Especifica el valor del campo Cant. Registradas Órd. Producción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mold Used Quantities - Control PostProdOrdQty - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 707429267 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MoldActivities</source>
+          <target>Actividades de Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MoldActivities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 707429267 - Control 1898340821 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Molds Assigned to Machine Centers field.</source>
+          <target>Especifica el valor del campo Moldes asignados a Centros Maquina</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MoldActivities - Control MoldsAssigtoMC - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 707429267 - Control 2200371994 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Molds Not Assigned to Machine Centers field.</source>
+          <target>Especifica el valor del campo Moldes no asignados a Centros Maquina</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MoldActivities - Control MoldsNotAssigtoMC - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 581076223 - Control 1022076241 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 955025918">
+          <source>Molds Information</source>
+          <target>Información de Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MC Mold Link ext - Control MoldsInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 581076223 - Control 1319123568 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 955025918">
+          <source>Specifies the value of the Mold Description field.</source>
+          <target>Especifica el valor del campo Descripción del Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MC Mold Link ext - Control Mold Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 581076223 - Control 625155527 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 955025918">
+          <source>Specifies the value of the Mold No. field.</source>
+          <target>Especifica el valor del campo No. del Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MC Mold Link ext - Control Mold No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 581076223 - Control 1977037094 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 955025918">
+          <source>Specifies the value of the Mold Type field.</source>
+          <target>Especifica el valor del campo Tipo de molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MC Mold Link ext - Control Mold Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3134321149 - Action 2468045267 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1764741422">
+          <source>Molds</source>
+          <target>Moldes asignados a Centros Maquina</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MoldExt - Action Molds - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3134321149 - Action 461592491 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1764741422">
+          <source>Injection Mold Processes</source>
+          <target>Procesos soportados por el Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MoldExt - Action InjMoldProc - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3134321149 - Action 2213690718 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1764741422">
+          <source>Mold Materials List</source>
+          <target>Lista de materiales del molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MoldExt - Action MoldMat - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3134321149 - Action 909280701 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1764741422">
+          <source>Molds List</source>
+          <target>Lista de Moldes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MoldExt - Action MoldsList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3197208729 - Control 1022076241 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1580859378">
+          <source>Molds Information</source>
+          <target>Información de Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ResMoldLinkExt - Control MoldsInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3197208729 - Control 1319123568 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1580859378">
+          <source>Specifies the value of the Mold Description field.</source>
+          <target>Especifica el valor del campo Descripción del Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ResMoldLinkExt - Control Mold Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3197208729 - Control 625155527 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1580859378">
+          <source>Specifies the value of the Mold No. field.</source>
+          <target>Especifica el valor del campo No. del Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ResMoldLinkExt - Control Mold No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3197208729 - Control 1977037094 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1580859378">
+          <source>Specifies the value of the Mold Type field.</source>
+          <target>Especifica el valor del campo Tipo de molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ResMoldLinkExt - Control Mold Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2316116960 - Field 1319123568 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 423926106">
+          <source>Mold Description</source>
+          <target>Descripción del Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MC Mold Link - Field Mold Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2316116960 - Field 625155527 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 423926106">
+          <source>Mold No.</source>
+          <target>No. del Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MC Mold Link - Field Mold No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2316116960 - Field 1977037094 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 423926106">
+          <source>Mold Type</source>
+          <target>Tipo de molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MC Mold Link - Field Mold Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3934432386 - Field 1319123568 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 348912950">
+          <source>Mold Description</source>
+          <target>Descripción del Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ResMoldLink - Field Mold Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3934432386 - Field 625155527 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 348912950">
+          <source>Mold No.</source>
+          <target>No. del Molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ResMoldLink - Field Mold No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3934432386 - Field 1977037094 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 348912950">
+          <source>Mold Type</source>
+          <target>Tipo de molde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ResMoldLink - Field Mold Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2918804054 - EnumValue 2235209370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Us</source>
+          <target>Nosotros</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Design Type - EnumValue Us - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2918804054 - EnumValue 1936001480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor</source>
+          <target>Proveedor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Design Type - EnumValue Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2111101414 - EnumValue 1828786226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CNC</source>
+          <target>CNC</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Mold Manuf. Method - EnumValue CNC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2111101414 - EnumValue 2239380432 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EDM</source>
+          <target>EDM</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Mold Manuf. Method - EnumValue EDM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1977037094 - EnumValue 2936466947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Multi Shot</source>
+          <target>Multi Shot</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Mold Type - EnumValue Multi Shot - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1977037094 - EnumValue 3935035966 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Single Shot</source>
+          <target>Single Shot</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Mold Type - EnumValue Single Shot - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1775733970 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MoldEntryType - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1775733970 - EnumValue 1662713252 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assembly Order</source>
+          <target>Pedido de Ensamble</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MoldEntryType - EnumValue Assembly Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1775733970 - EnumValue 2308244223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Production Order</source>
+          <target>Órden de producción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MoldEntryType - EnumValue Production Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 2821389389 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MoldCtrl</source>
+          <target>Control de moldes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet MoldCtrl - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
